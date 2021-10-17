@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\Release\Group_Assign.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Group_Assign.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Group_Assign.map</FILE>
+  <FILE>Group_Assign.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>19</LINE></start>
+  <var11><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>26</LINE></var11>
+  <var21><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>30</LINE></var21>
+  <var31><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>36</LINE></var31>
+  <var41><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>38</LINE></var41>
+  <DELAY><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>106</LINE></DELAY>
+  <TOGGLE><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>124</LINE></TOGGLE>
+  <var12><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>51</LINE></var12>
+  <var22><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>54</LINE></var22>
+  <var32><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>60</LINE></var32>
+  <var42><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>62</LINE></var42>
+  <var52><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>72</LINE></var52>
+  <var13><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>83</LINE></var13>
+  <var23><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>87</LINE></var23>
+  <var33><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>93</LINE></var33>
+  <var43><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>95</LINE></var43>
+  <LOOP_1><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>107</LINE></LOOP_1>
+  <LOOP_2><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>109</LINE></LOOP_2>
+  <LOOP_3><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>111</LINE></LOOP_3>
+  <LOOP_4><FILE>C:\Users\basak\Documents\Atmel Studio\7.0\Group_Assign\Group_Assign\main.asm</FILE><LINE>129</LINE></LOOP_4>
+ </LABELS>
+</ASSEMBLER_INFO>
