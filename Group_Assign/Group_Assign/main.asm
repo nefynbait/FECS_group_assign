@@ -3,11 +3,12 @@
 ;
 ; Created: 10/14/2021 6:57:59 PM
 ; Author : Group_1
-;Assembly language for continuously transferring the data 12 H, 22 H, 32 H, 42H, 52 H, 52H,42H, 32H,22H, 12H,22H,32H,42H,52H,12H…
+;Assembly language for continuously transferring the data 12 H, 22 H, 32 H, 42H, 52 H, 52H,42H, 32H,22H, 12H,22H,32H,42H,52H,12Hâ€¦
 ;and so on in a serial manner (one bit at a time) through the pin PC3. 
 ;Send the MSB of each byte first. Note that after end of every transmission of 52H data there should be a delay of 1.5 seconds and the Port C.6 bit is to be toggled once.
 ;
-
+;The below code uses three loops for sending the output to PORTC in three parts 12H-52H, 52H-12H, 22H-52H respectively. Hence three loops are used runnning for 5, 5, 4 
+;repectively and each loop consists of another loop which is running 8 times and sending each bit each time.
 ; Replace with your application code
 	.ORG 0
 	LDI R27,HIGH(RAMEND) ;initialize SP
